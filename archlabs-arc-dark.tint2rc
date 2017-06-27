@@ -9,10 +9,10 @@ border_sides = TBLR
 background_color = #404552 80
 border_color = #404552 30
 gradient_id = 0
-background_color_hover = #4084d6 30
-border_color_hover = #4084d6 30
-background_color_pressed = #4084d6 30
-border_color_pressed = #4084d6 30
+background_color_hover = #4084d6 70
+border_color_hover = #4084d6 50
+background_color_pressed = #4084d6 70
+border_color_pressed = #4084d6 50
 
 # Background 2: Urgent task
 rounded = 4
@@ -21,22 +21,22 @@ border_sides = TBLR
 background_color = #404552 50
 border_color = #cf2d3e 50
 gradient_id = 0
-background_color_hover = #4084d6 30
-border_color_hover = #4084d6 30
-background_color_pressed = #4084d6 30
-border_color_pressed = #4084d6 30
+background_color_hover = #4084d6 70
+border_color_hover = #4084d6 50
+background_color_pressed = #4084d6 70
+border_color_pressed = #4084d6 50
 
 # Background 3: Active taskbar
 rounded = 0
 border_width = 1
 border_sides = TBLR
-background_color = #4084d6 50
-border_color = #4084d6 30
+background_color = #404552 90
+border_color = #404552 30
 gradient_id = 0
-background_color_hover = #4084d6 30
-border_color_hover = #4084d6 30
-background_color_pressed = #4084d6 30
-border_color_pressed = #4084d6 30
+background_color_hover = #4084d6 70
+border_color_hover = #4084d6 50
+background_color_pressed = #4084d6 70
+border_color_pressed = #4084d6 50
 
 # Background 4: Active task
 rounded = 0
@@ -45,10 +45,10 @@ border_sides = TBLR
 background_color = #4084d6 70
 border_color = #4084d6 50
 gradient_id = 0
-background_color_hover = #4084d6 30
-border_color_hover = #4084d6 30
-background_color_pressed = #4084d6 30
-border_color_pressed = #4084d6 30
+background_color_hover = #4084d6 70
+border_color_hover = #4084d6 50
+background_color_pressed = #4084d6 70
+border_color_pressed = #4084d6 50
 
 #-------------------------------------
 # Panel
