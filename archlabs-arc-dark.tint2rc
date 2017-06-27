@@ -5,7 +5,7 @@
 # Background 1: Battery, Clock, Default task, Iconified task, Inactive taskbar, Systray, Tooltip
 rounded = 0
 border_width = 1
-border_sides = TBLR
+border_sides = LR
 background_color = #404552 80
 border_color = #404552 30
 gradient_id = 0
@@ -67,7 +67,7 @@ border_color_pressed = #4084d6 50
 panel_items = TBSC
 panel_size = 100% 30
 panel_margin = 0 0
-panel_padding = 0 0 1
+panel_padding = 0 0 2
 panel_background_id = 5
 wm_menu = 1
 panel_dock = 0
