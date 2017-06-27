@@ -2,7 +2,7 @@
 # Gradients
 #-------------------------------------
 # Backgrounds
-# Background 1: Battery, Clock, Default task, Iconified task, Inactive taskbar, Systray, Tooltip, Panel
+# Background 1: Battery, Clock, Default task, Iconified task, Inactive taskbar, Systray, Tooltip
 rounded = 0
 border_width = 1
 border_sides = TBLR
@@ -30,8 +30,8 @@ border_color_pressed = #4084d6 50
 rounded = 0
 border_width = 1
 border_sides = TBLR
-background_color = #404552 90
-border_color = #404552 30
+background_color = #404552 120
+border_color = #404552 50
 gradient_id = 0
 background_color_hover = #4084d6 70
 border_color_hover = #4084d6 50
@@ -40,10 +40,22 @@ border_color_pressed = #4084d6 50
 
 # Background 4: Active task
 rounded = 0
-border_width = 1
+border_width = 0
 border_sides = TBLR
 background_color = #4084d6 70
 border_color = #4084d6 50
+gradient_id = 0
+background_color_hover = #4084d6 70
+border_color_hover = #4084d6 50
+background_color_pressed = #4084d6 70
+border_color_pressed = #4084d6 50
+
+# Background 5: Panel
+rounded = 0
+border_width = 0
+border_sides = TBLR
+background_color = #404552 70
+border_color = #404552 40
 gradient_id = 0
 background_color_hover = #4084d6 70
 border_color_hover = #4084d6 50
@@ -56,7 +68,7 @@ panel_items = TBSC
 panel_size = 100% 30
 panel_margin = 0 0
 panel_padding = 0 0 1
-panel_background_id = 1
+panel_background_id = 5
 wm_menu = 1
 panel_dock = 0
 panel_position = top center horizontal
