@@ -26,7 +26,7 @@ border_color_pressed = #888888 20
 
 #-------------------------------------
 # Panel
-panel_items = TS
+panel_items = TBS
 panel_size = 100% 26
 panel_margin = 0 0
 panel_padding = 0 0 2

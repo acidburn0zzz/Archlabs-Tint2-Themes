@@ -48,7 +48,7 @@ border_color_pressed = #d8d8d8 0
 
 #-------------------------------------
 # Panel
-panel_items = TSC
+panel_items = TBSC
 panel_size = 100% 30
 panel_margin = 0 0
 panel_padding = 0 0 2
