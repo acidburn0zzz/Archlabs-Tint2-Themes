@@ -2,53 +2,53 @@
 # Gradients
 #-------------------------------------
 # Backgrounds
-# Background 1: Battery, Clock, Default task, Iconified task, Inactive taskbar, Systray, Tooltip
+# Background 1: Battery, Clock, Default task, Iconified task, Inactive taskbar, Systray, Tooltip, Panel
 rounded = 0
 border_width = 1
 border_sides = TBLR
-background_color = #404552 50
-border_color = #404552 40
+background_color = #404552 80
+border_color = #404552 30
 gradient_id = 0
-background_color_hover = #888888 20
-border_color_hover = #888888 20
-background_color_pressed = #888888 20
-border_color_pressed = #888888 20
+background_color_hover = #4084d6 30
+border_color_hover = #4084d6 30
+background_color_pressed = #4084d6 30
+border_color_pressed = #4084d6 30
 
 # Background 2: Urgent task
 rounded = 4
 border_width = 1
 border_sides = TBLR
 background_color = #404552 50
-border_color = #CF2D3E 50
+border_color = #cf2d3e 50
 gradient_id = 0
-background_color_hover = #888888 20
-border_color_hover = #888888 20
-background_color_pressed = #888888 20
-border_color_pressed = #888888 20
+background_color_hover = #4084d6 30
+border_color_hover = #4084d6 30
+background_color_pressed = #4084d6 30
+border_color_pressed = #4084d6 30
 
 # Background 3: Active taskbar
 rounded = 0
 border_width = 1
 border_sides = TBLR
-background_color = #404552 70
-border_color = #404552 50
+background_color = #4084d6 50
+border_color = #4084d6 30
 gradient_id = 0
-background_color_hover = #888888 20
-border_color_hover = #888888 20
-background_color_pressed = #888888 20
-border_color_pressed = #888888 20
+background_color_hover = #4084d6 30
+border_color_hover = #4084d6 30
+background_color_pressed = #4084d6 30
+border_color_pressed = #4084d6 30
 
 # Background 4: Active task
 rounded = 0
 border_width = 1
 border_sides = TBLR
-background_color = #404552 50
-border_color = #100c0c 50
+background_color = #4084d6 70
+border_color = #4084d6 50
 gradient_id = 0
-background_color_hover = #888888 20
-border_color_hover = #888888 20
-background_color_pressed = #888888 20
-border_color_pressed = #888888 20
+background_color_hover = #4084d6 30
+border_color_hover = #4084d6 30
+background_color_pressed = #4084d6 30
+border_color_pressed = #4084d6 30
 
 #-------------------------------------
 # Panel
@@ -56,7 +56,7 @@ panel_items = TBSC
 panel_size = 100% 30
 panel_margin = 0 0
 panel_padding = 0 0 1
-panel_background_id = 0
+panel_background_id = 1
 wm_menu = 1
 panel_dock = 0
 panel_position = top center horizontal
