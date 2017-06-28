@@ -9,10 +9,10 @@ border_sides = LR
 background_color = #404552 80
 border_color = #404552 30
 gradient_id = 0
-background_color_hover = a1a1a1 70
-border_color_hover = a1a1a1 50
-background_color_pressed = a1a1a1 70
-border_color_pressed = a1a1a1 50
+background_color_hover = #a1a1a1 70
+border_color_hover = #a1a1a1 50
+background_color_pressed = #a1a1a1 70
+border_color_pressed = #a1a1a1 50
 
 # Background 2: Urgent task
 rounded = 4
@@ -21,10 +21,10 @@ border_sides = TBLR
 background_color = #404552 50
 border_color = #cf2d3e 50
 gradient_id = 0
-background_color_hover = a1a1a1 70
-border_color_hover = a1a1a1 50
-background_color_pressed = a1a1a1 70
-border_color_pressed = a1a1a1 50
+background_color_hover = #a1a1a1 70
+border_color_hover = #a1a1a1 50
+background_color_pressed = #a1a1a1 70
+border_color_pressed = #a1a1a1 50
 
 # Background 3: Active taskbar
 rounded = 0
@@ -33,22 +33,22 @@ border_sides = TBLR
 background_color = #404552 120
 border_color = #404552 50
 gradient_id = 0
-background_color_hover = a1a1a1 70
-border_color_hover = a1a1a1 50
-background_color_pressed = a1a1a1 70
-border_color_pressed = a1a1a1 50
+background_color_hover = #a1a1a1 70
+border_color_hover = #a1a1a1 50
+background_color_pressed = #a1a1a1 70
+border_color_pressed = #a1a1a1 50
 
 # Background 4: Active task
 rounded = 0
 border_width = 0
 border_sides = TBLR
-background_color = a1a1a1 70
-border_color = a1a1a1 50
+background_color = #a1a1a1 70
+border_color = #a1a1a1 50
 gradient_id = 0
-background_color_hover = a1a1a1 70
-border_color_hover = a1a1a1 50
-background_color_pressed = a1a1a1 70
-border_color_pressed = a1a1a1 50
+background_color_hover = #a1a1a1 70
+border_color_hover = #a1a1a1 50
+background_color_pressed = #a1a1a1 70
+border_color_pressed = #a1a1a1 50
 
 # Background 5: Panel
 rounded = 0
@@ -57,10 +57,10 @@ border_sides = TBLR
 background_color = #404552 70
 border_color = #404552 40
 gradient_id = 0
-background_color_hover = a1a1a1 70
-border_color_hover = a1a1a1 50
-background_color_pressed = a1a1a1 70
-border_color_pressed = a1a1a1 50
+background_color_hover = #a1a1a1 70
+border_color_hover = #a1a1a1 50
+background_color_pressed = #a1a1a1 70
+border_color_pressed = #a1a1a1 50
 
 #-------------------------------------
 # Panel
